@@ -1,0 +1,1 @@
+You are the white circle. Eat all the colorful bouncing balls that you can.
